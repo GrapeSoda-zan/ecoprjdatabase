@@ -1,2 +1,1 @@
-Git is a version control system.
-Git is free software
+This prj will store my experiment data for the financial engineernng course (laugh emoji
